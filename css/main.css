@@ -1,3 +1,6 @@
  .btn-outline-secondary:hover {
   background-color:#A288E3;
  }
+.navbar-light .navbar-brand {
+  color:#A288E3;
+}
