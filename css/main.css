@@ -4,3 +4,19 @@
 .navbar-light .navbar-brand {
   color:#A288E3;
 }
+.carousel-item {
+  height: 500px;
+}
+.carousel-item img {
+  height: 500px;
+  width: 600px;
+}
+.navbar-brand img {
+  height:50px;
+}
+body {
+  min-height: 100vh;
+   background-image: linear-gradient(green,white,red);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
