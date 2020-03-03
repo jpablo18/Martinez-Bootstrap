@@ -1,8 +1,11 @@
  .btn-outline-secondary:hover {
-  background-color:#A288E3;
+  background-color:#ff1717;
  }
 .navbar-light .navbar-brand {
   color:#A288E3;
+}
+.bg-light {
+    background-color: rgba(255, 255, 255, 0.25)!important;
 }
 .carousel-item {
   height: 500px;
@@ -16,7 +19,14 @@
 }
 body {
   min-height: 100vh;
-   background-image: linear-gradient(green,white,red);
+   background-image: linear-gradient(green,White);
    background-size: contain;
    background-repeat: no-repeat;
+}
+.card {
+  background-color: rgba(255, 255, 255, 0.25)!important;
+  color:#e1ffdb;
+}
+* {
+  border: 1px solid red;
 }
